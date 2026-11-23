@@ -1,36 +1,39 @@
 # Loan Risk Analysis
 
-A data analytics project focused on exploring loan risk and communicating findings through a Power BI report.
+A Power BI project focused on exploring loan-related information and presenting portfolio patterns through a report that can be inspected interactively or reviewed as a PDF export.
 
-## Project overview
+## Project purpose
 
-Loan risk analysis helps organise borrower and loan information into views that can support clearer review of portfolio patterns. This project presents the analysis as a dashboard/report rather than relying only on raw tables.
+The report is intended to help viewers explore borrower and loan information in a structured way. It provides a visual starting point for discussing risk patterns rather than relying only on raw tables.
 
-## What's included
+## Deliverables
 
-- A Power BI report file (`.pbix`)
-- A PDF report/export for convenient review
+- Power BI report (`.pbix`) for interactive exploration
+- PDF export for quick review and sharing
 
-## Tools and technologies
+## Tools
 
-- **Power BI** for data modelling, visual analysis, and dashboard presentation
-- **PDF** for sharing a report snapshot
+- Power BI for data modelling, measures and visual analysis
+- PDF for a portable report snapshot
 
-## How to explore the project
+## How to review
 
 1. Open the repository: [Loan Risk Analysis](https://github.com/UtsavChalodiya/Loan-Risk-Analysis).
-2. Open the `.pbix` file using Power BI Desktop to inspect the report and interact with available visuals.
-3. Review the PDF included in the repository for a quick, non-interactive overview.
+2. Open the `.pbix` file in Power BI Desktop to inspect the report and interact with its filters and visuals.
+3. Review the PDF export for a quick overview.
 
-## Analytical focus
+## What to document when presenting this project
 
-The project is intended to present loan-related information in a structured way and make risk patterns easier to inspect. For precise definitions of metrics and any conclusions, refer to the measures, filters, and visuals in the Power BI file itself.
+For a recruiter-friendly case study, explain:
+- The business question and intended audience
+- The dataset source, time period and row count
+- The definition of each key performance indicator
+- The most important patterns shown by the report
+- Any data-quality limitations and decisions
+
+Avoid treating a dashboard association as proof of causation. Add screenshots of the report pages to this README so visitors can understand the work before opening Power BI.
 
 ## Author
 
 **Utsav Chalodiya**  
 [GitHub profile](https://github.com/UtsavChalodiya)
-
----
-
-Created as a data analytics portfolio project.
